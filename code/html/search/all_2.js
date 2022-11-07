@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['getcity_11',['getCity',['../classSelection.html#a6df49e6549eb1f1b9612d5e09e457c4a',1,'Selection']]],
+  ['getcovidcurrentcase_12',['getCovidCurrentCase',['../classGetData.html#a0fb124ce53d5ced982e526de498c6ce6',1,'GetData']]],
+  ['getcovidreportdate_13',['getCovidReportDate',['../classGetData.html#ae5ac905cd34d19cca09b30f62d94d626',1,'GetData']]],
+  ['getdata_14',['GetData',['../classGetData.html',1,'GetData'],['../classGetData.html#a11920b3d21cb73716765fddba86b0d24',1,'GetData::GetData()']]],
+  ['getdescription_15',['getDescription',['../classGetData.html#a0a2af4e9655f86c755459189f9e3e84e',1,'GetData']]],
+  ['getendday_16',['getEndDay',['../classSelection.html#aeabc996126de5f5414b4cf20a46e3250',1,'Selection']]],
+  ['getendmonth_17',['getEndMonth',['../classSelection.html#a3a54df87682643fdc830d6271e207f38',1,'Selection']]],
+  ['gethumidity_18',['getHumidity',['../classGetData.html#a13bff941658c4fd6321990d69ec7e645',1,'GetData']]],
+  ['getlength_19',['getLength',['../classGetData.html#ad5747658f9e37b7f19cda2b05488a0e7',1,'GetData']]],
+  ['getmain_20',['getMain',['../classGetData.html#a1780bffb6c0b449997d4cbe95532e44b',1,'GetData']]],
+  ['getmax_21',['getMax',['../classGetData.html#a2bc19f1a148165e154f6e5a025e31fba',1,'GetData']]],
+  ['getmin_22',['getMin',['../classGetData.html#a50e9f35dec9bcff73ba71bd94cd08db1',1,'GetData']]],
+  ['getpressure_23',['getPressure',['../classGetData.html#a6294a616545f60bde62f55e0ea930310',1,'GetData']]],
+  ['getresult_24',['getResult',['../classContext.html#a7ba3d766bbdca28747420e340126acf9',1,'Context']]],
+  ['getstartday_25',['getStartDay',['../classSelection.html#af20dd512e1e6fe7994dc942c343c6fd6',1,'Selection']]],
+  ['getstartmonth_26',['getStartMonth',['../classSelection.html#a08b8019e4db80d26bd74041d5bcb8721',1,'Selection']]],
+  ['gettemp_27',['getTemp',['../classGetData.html#a0b4e9d9f70d2d2b42134e217faba72ca',1,'GetData']]]
+];

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classStrategyFactory.html" title="this class implement the design pattern of factory create different of object" alt="" coords="5,31,129,57"/>
+<area shape="rect" id="node2" href="$classCovidFactory.html" title="this class is create covid strategy object" alt="" coords="185,5,292,32"/>
+<area shape="rect" id="node3" href="$classWeatherFactory.html" title=" " alt="" coords="177,56,300,83"/>
+</map>

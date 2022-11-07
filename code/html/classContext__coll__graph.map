@@ -1,0 +1,5 @@
+<map id="Context" name="Context">
+<area shape="rect" id="node1" title="this class implemented the strategy design pattern to select which strategy to use" alt="" coords="10,184,83,211"/>
+<area shape="rect" id="node2" href="$classStrategy.html" title=" " alt="" coords="8,95,85,121"/>
+<area shape="rect" id="node3" href="$classSelection.html" title="selection used to store the data from the user" alt="" coords="5,5,88,32"/>
+</map>

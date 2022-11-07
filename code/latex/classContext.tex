@@ -1,0 +1,69 @@
+\hypertarget{classContext}{}\doxysection{Context Class Reference}
+\label{classContext}\index{Context@{Context}}
+
+
+this class implemented the strategy design pattern to select which strategy to use  
+
+
+
+
+{\ttfamily \#include $<$header\+Strategy.\+h$>$}
+
+
+
+Collaboration diagram for Context\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=159pt]{classContext__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classContext_ac587c812a0fa140f9a8f8e401250a69b}{Context}} (\mbox{\hyperlink{classStrategy}{Strategy}} $\ast$strategy)
+\item 
+\mbox{\Hypertarget{classContext_a12910bf6f30bba081a8fe0983b140122}\label{classContext_a12910bf6f30bba081a8fe0983b140122}} 
+void {\bfseries set\+Strategy} (\mbox{\hyperlink{classStrategy}{Strategy}} $\ast$strategy)
+\item 
+\mbox{\hyperlink{classGetData}{Get\+Data}} \mbox{\hyperlink{classContext_a7ba3d766bbdca28747420e340126acf9}{get\+Result}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classContext_a15fc700dafa25dcbdba79a30ab225136}\label{classContext_a15fc700dafa25dcbdba79a30ab225136}} 
+\mbox{\hyperlink{classStrategy}{Strategy}} $\ast$ {\bfseries strategy}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+this class implemented the strategy design pattern to select which strategy to use 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classContext_ac587c812a0fa140f9a8f8e401250a69b}\label{classContext_ac587c812a0fa140f9a8f8e401250a69b}} 
+\index{Context@{Context}!Context@{Context}}
+\index{Context@{Context}!Context@{Context}}
+\doxysubsubsection{\texorpdfstring{Context()}{Context()}}
+{\footnotesize\ttfamily Context\+::\+Context (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classStrategy}{Strategy}} $\ast$}]{strategy }\end{DoxyParamCaption})}
+
+@para strategy the strategy user wants to set up
+
+the comment of this class is written in header file 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classContext_a7ba3d766bbdca28747420e340126acf9}\label{classContext_a7ba3d766bbdca28747420e340126acf9}} 
+\index{Context@{Context}!getResult@{getResult}}
+\index{getResult@{getResult}!Context@{Context}}
+\doxysubsubsection{\texorpdfstring{getResult()}{getResult()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classGetData}{Get\+Data}} Context\+::get\+Result (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\begin{DoxyReturn}{Returns}
+return the value of result just fetched 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+header\+Strategy.\+h\item 
+context.\+cpp\end{DoxyCompactItemize}

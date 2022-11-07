@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file alias="Canada.png">map/canada.png</file>
+	<file alias="Brampton.png">map/Brampton.png</file>
+	<file alias="Calgary.png">map/Calgary.png</file>
+	<file alias="Edmonton.png">map/Edmonton.png</file>
+	<file alias="Mississauga.png">map/Mississauga.png</file>
+	<file alias="Montreal.png">map/Montreal.png</file>
+	<file alias="Ottawa.png">map/Ottawa.png</file>
+	<file alias="Vancouver.png">map/Vancouver.png</file>
+	<file alias="Winnipeg.png">map/Winnipeg.png</file>
+	<file alias="London.png">map/london.png</file>
+	<file alias="Toronto.png">map/trt.png</file>
+</qresource>
+</RCC>

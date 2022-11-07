@@ -1,0 +1,5 @@
+<map id="StrategyFactory" name="StrategyFactory">
+<area shape="rect" id="node1" title="this class implement the design pattern of factory create different of object" alt="" coords="66,5,190,32"/>
+<area shape="rect" id="node2" href="$classCovidFactory.html" title="this class is create covid strategy object" alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node3" href="$classWeatherFactory.html" title=" " alt="" coords="136,80,259,107"/>
+</map>
